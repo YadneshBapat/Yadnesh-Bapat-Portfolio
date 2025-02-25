@@ -3,8 +3,10 @@
 ### Table of content
 - [About me](#About-me)
 - [Certifications](#Certifications)
+- [Skills](#Skills)
 - [Projects](#Projects)
 - [Standalone dashboards](#Standalone-dashboards)
+- [Connect with me](Connect-with-me)
 
 --------------------------------------------------------------------------------
 ### About me
@@ -12,8 +14,15 @@ I am Yadnesh Bapat, looking forward for an exciting and challenging entry level 
 
 ### Certifications
 
+### Skills
+
 
 ### Projects
 
 
 ### Standalone dashboards
+
+
+### Connect with me
+email - yadneshbapat11@gmail.com
+[linkedin](https://www.linkedin.com/in/yadnesh-bapat-086a291b4)
