@@ -6,7 +6,8 @@
 - [Skills](#Skills)
 - [Projects](#Projects)
 - [Standalone dashboards](#Standalone-dashboards)
-- [Connect with me](Connect-with-me)
+- [Connect with me](#connect-with-me)
+
 
 --------------------------------------------------------------------------------
 ### About me
@@ -24,7 +25,6 @@ I am Yadnesh Bapat, looking forward for an exciting and challenging entry level 
 
 
 ### Connect with me
-
 
 
 
