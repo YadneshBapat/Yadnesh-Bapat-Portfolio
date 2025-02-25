@@ -24,5 +24,6 @@ I am Yadnesh Bapat, looking forward for an exciting and challenging entry level 
 
 
 ### Connect with me
-email - yadneshbapat11@gmail.com
+email - yadneshbapat11@gmail.com 
+
 [linkedin](https://www.linkedin.com/in/yadnesh-bapat-086a291b4)
